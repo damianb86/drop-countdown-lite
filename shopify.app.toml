@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "1cbb6e9b001e14c05d5b29a6717b1ddb"
+client_id = "8e47223a6c546e763081aec279ee46e1"
 application_url = "https://example.com"
 embedded = true
 name = "Drop Countdown Lite"
